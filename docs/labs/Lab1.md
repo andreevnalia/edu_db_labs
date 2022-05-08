@@ -154,7 +154,6 @@ Basecamp - інструмент для управління проектами, 
     <td>🟢</td>
     <td>🟢</td>
     <td></td>
-  </tr>
   <tr>
     <td>Сповіщення<br>(Notifications)</td>
     <td>🟢</td>
