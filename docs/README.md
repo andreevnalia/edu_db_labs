@@ -11,9 +11,9 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 *студенти 2-го курсу, групи (ІО-з01)*<span padding-right:5em></span> 
 
-Ермоленко Тимур  https://t.me/wonnakoo
+**Ермоленко Тимур  [Telegram](https://t.me/wonnakoo)[GitHub](https://github.com/WonnaKooo)**
 
-Кузьменко Юлія  https://t.me/andreevnalia]
+**Кузьменко Юлія  [Telegram](https://t.me/andreevnalia)**
 
 
 **Керівник**
