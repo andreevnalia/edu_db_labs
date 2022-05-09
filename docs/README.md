@@ -9,14 +9,14 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
 
 **Виконали:** 
 
-*студенти 2-го курсу, групи (ІО-з01)*<span padding-right:5em></span> 
+<span padding-right:5em></span> 
 
-**Ермоленко Тимур  [Telegram](https://t.me/wonnakoo) [GitHub](https://github.com/WonnaKooo)**
+*студент 2-го курсу, групи ІО-з01* **Ермоленко Тимур  [Telegram](https://t.me/wonnakoo) [GitHub](https://github.com/WonnaKooo)**
 
-**Кузьменко Юлія  [Telegram](https://t.me/andreevnalia)**
+*студентка 2-го курсу, групи ІО-з01* **Кузьменко Юлія  [Telegram](https://t.me/andreevnalia) [GitHub](https://github.com/andreevnalia)**
 
 
-**Керівник**
+**Керівник:**
 
 *доцент кафедри ОТ ФІОТ, к.т.н., доцент*<span padding-right:5em></span> **Андрій БОЛДАК** 
 
